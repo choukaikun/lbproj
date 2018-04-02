@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 DIR=~/lbproj/Docker/haproxy_basic
 
